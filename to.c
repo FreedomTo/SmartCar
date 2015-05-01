@@ -1,1 +1,0 @@
-gtthttps://github.com/FreedomTo/SmartCar.git
